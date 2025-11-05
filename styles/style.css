@@ -401,12 +401,12 @@
   padding-block-end: 50px;
 }
 
+
+.main-block-title-image {
+  margin-bottom: 10px;
+}
 .image-section {
   padding: 0 0 40px 0;
-}
-
-.image-section__image-item {
-  margin: 0 10px 10px 10px;
 }
 
 .image-container {
